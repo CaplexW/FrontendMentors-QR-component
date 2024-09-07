@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body, .container {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.component {
+  width: 13rem;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: .9rem;
+  padding: .7rem;
+}
+.qr-image {
+  width: 100%;
+  height: 50%;
+  border-radius: .5rem;
+}
+.text-container {
+  font-size: 15px;
+  font-family: 'Outfit';
+
+  text-align: center;
+
+  margin: .6rem;
+}
+.bold-text {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+
+  margin-top: .7rem;
+}
+.normal-text {
+  font-size: 11px;
+  font-weight: 400;
+  color: hsl(216, 15%, 48%);
+
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
