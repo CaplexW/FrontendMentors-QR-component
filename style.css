@@ -17,7 +17,7 @@ body {
   align-items: center;
 }
 .component {
-  width: 13rem;
+  width: 12rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: .9rem;
   padding: .7rem;
@@ -33,7 +33,7 @@ body {
 
   text-align: center;
 
-  margin: .6rem;
+  margin: .4rem;
 }
 .bold-text {
   font-weight: 700;
@@ -42,10 +42,11 @@ body {
   margin-top: .7rem;
 }
 .normal-text {
-  font-size: 11px;
+  font-size: 10.5px;
   font-weight: 400;
   color: hsl(216, 15%, 48%);
 
-  margin-top: 1rem;
+  margin-inline: .1rem;
+  margin-top: .7rem;
   margin-bottom: 1rem;
 }
