@@ -16,18 +16,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://caplexw.github.io/FrontendMentors-QR-component/)
+- Solution [URL](https://caplexw.github.io/FrontendMentors-QR-component/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
 
 ## Author
 Caplex
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CaplexW)
+- Frontend Mentor - [@CaplexW](https://www.frontendmentor.io/profile/CaplexW)
 
